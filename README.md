@@ -35,6 +35,13 @@ The project involved the following tasks:
 ## Findings:
 
 Here's a subset of some of the findings uncovered during the project: 
+Pairplot findings
+* all distributions appear right skewed - logarithmic or exponential
+* there appears to be a strong linear relationship between Grocery and Detergents_paper, 
+
+Feature Distribution Findings:
+* all features still appear to have a right skew
+
 1. a) Chanel 2 purchases much larger volumes than Channel 1
     * Recommendation: Assuming the business strategy is to maximize profits of the highest spending accounts, offer incentives and discounts :
         * to cluster 0 clients for fresh, grocery, and frozen products
